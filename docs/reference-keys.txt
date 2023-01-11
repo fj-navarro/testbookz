@@ -1,8 +1,4 @@
-fig:nice-fig
-tab:nice-tab
-eq:binom
-thm:tri
-about-your-team-please-not-anymore
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
 usage
 render-book
 preview-book
@@ -23,4 +19,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
