@@ -1,4 +1,8 @@
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
+fig:nice-fig
+tab:nice-tab
+eq:binom
+thm:tri
+about-your-team-please-not-anymore
 usage
 render-book
 preview-book
